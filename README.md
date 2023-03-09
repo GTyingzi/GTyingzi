@@ -1,6 +1,4 @@
 ### Hi there 👋
-![GTyingzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=GTyingzi&theme=tokyonight&show_icons=true)
-
 I'm Guo Tao(郭涛), 22th Postgraduate  on USTB | Big Data Learner
 
 I love 🏓, 🏸, 🏃‍♂ and enjoying delicious food
@@ -19,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GTyingzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=GTyingzi&theme=tokyonight&show_icons=true)
