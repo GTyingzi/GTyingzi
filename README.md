@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Guo Tao(郭涛), 22th Postgraduate  on USTB | Big Data Learner | NLP
+I'm Guo Tao(郭涛), 22th Postgraduate  on USTB | Big Data Learner | NLP learner
 
 I love 🏓, 🏸, 🏃‍♂ and enjoying delicious food
 
