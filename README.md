@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![GTyingzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=GTyingzi&theme=tokyonight&show_icons=true)
 
 [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/gu-huang-quan-shui)
-[![blog](https://img.shields.io/badge/CSDN-white?logo=CSDN)](https://blog.csdn.net/mynameisgt)
+[![blog](https://img.shields.io/badge/blog-white?logo=blog)](https://blog.csdn.net/mynameisgt)
