@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GTyingzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=GTyingzi&theme=tokyonight&show_icons=true)
+
+[![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)]([https://www.zhihu.com/people/liliansd](https://www.zhihu.com/people/gu-huang-quan-shui))
