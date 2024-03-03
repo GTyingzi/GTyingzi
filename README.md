@@ -22,5 +22,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GTyingzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=GTyingzi&theme=tokyonight&show_icons=true)
-
-[![blog](https://img.shields.io/badge/Blog-%20-green)](http://yingzi.live/Personal)
