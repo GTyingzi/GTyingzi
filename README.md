@@ -1,10 +1,12 @@
 ### Hi there 👋
-I'm Guo Tao(郭涛), 22th Postgraduate  on USTB | Big Data Learner | NLP learner
+I'm yingzi, 22th Postgraduate  on USTB | Engineer| Big Data Learner | NLP learner
 
 I love 🏓, 🏸, 🏃‍♂ and enjoying delicious food
+this is my blog: yingzi.live
+this is my knowledge base: https://ik3te1knhq.feishu.cn/wiki/KoO0wkXoBiF92jkGBY0cR4K5n3d
 
 <!--
-**GTyingzi/GTyingzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yingzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
