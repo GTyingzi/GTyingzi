@@ -3,8 +3,6 @@ I'm yingzi, 22th Postgraduate  on USTB | Engineer| Big Data Learner | NLP learne
 
 I love 🏓, 🏸, 🏃‍♂ and enjoying delicious food
 
-this is my blog: [yingzi.live](http://yingzi.live/)
-
 this is my knowledge base: https://ik3te1knhq.feishu.cn/wiki/KoO0wkXoBiF92jkGBY0cR4K5n3d
 
 <!--
